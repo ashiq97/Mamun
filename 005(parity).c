@@ -1,3 +1,4 @@
+scsa
 //Uva 10931
 #include <stdio.h>
 int main ()
